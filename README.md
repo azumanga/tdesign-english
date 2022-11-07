@@ -23,21 +23,21 @@ TDesign is a `multi-repo` and TDesign has the following code repositories:
 
 ### Desktop Component Libraries
 
-| Repository                                                      | Description          | Status   |
-| --------------------------------------------------------------- | -------------------- | -------- |
-| [tdesign-vue](https://github.com/Tencent/tdesign-vue)           | Vue 2.x Tech Stack | `Beta`   |
-| [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) | Vue 3.x Tech Stack | `Beta`  |
-| [tdesign-react](https://github.com/Tencent/tdesign-react)       | React 16.x Tech Stack | `Beta`  |
+| Repository                                                      | Description                        | Status   |
+| --------------------------------------------------------------- | ---------------------------------- | -------- |
+| [tdesign-vue](https://github.com/Tencent/tdesign-vue)           | Vue 2.x Tech Stack                 | `Beta`   |
+| [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) | Vue 3.x Tech Stack                 | `Beta`  |
+| [tdesign-react](https://github.com/Tencent/tdesign-react)       | React 16.x Tech Stack              | `Beta`  |
 | tdesign-angular                                                 | Based on Angular 10 Implementation | `To Go Live` |
 
 ### Mobile Component Library
 
-| Repository                                                              | Description             | Status  |
-| ----------------------------------------------------------------------- | --------------------------------- |
-| [tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram)   | WeChat applet           | `Beta`  |
-| [tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)     | Vue 3.x Tech Stack      | `Beta`  |
-| [tdesign-mobile-react](https://github.com/Tencent/tdesign-mobile-react) | React 16.x Tech Stack   | `Alpha` |
-| tdesign-flutter                                                         | 1.17.0                  | `To Go Live` |
+| Repository                                                              | Description              | Status       |
+| ----------------------------------------------------------------------- | ------------------------ | ------------ |
+| [tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram)   | WeChat applet            | `Beta`       |
+| [tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)     | Vue 3.x Tech Stack       | `Beta`       |
+| [tdesign-mobile-react](https://github.com/Tencent/tdesign-mobile-react) | React 16.x Tech Stack    | `Alpha`      |
+| tdesign-flutter                                                         | 1.17.0                   | `To Go Live` |
 
 ### Basic General Repositories
 
@@ -54,7 +54,7 @@ TDesign is a `multi-repo` and TDesign has the following code repositories:
 | [tdesign-starter-cli](https://github.com/Tencent/tdesign-starter-cli)           | Scaffolding for TDesign Solutions |
 | [tdesign-vue-starter](https://github.com/Tencent/tdesign-vue-starter)           | tdesign-vue based solutions       |
 | [tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter) | tdesign-vue-next based solutions  |
-| [tdesign-react-starter](https://github.com/Tencent/tdesign-react-starter)       | tdesign-react-based solutions    |
+| [tdesign-react-starter](https://github.com/Tencent/tdesign-react-starter)       | tdesign-react-based solutions     |
 | [tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail)       | tdesign-miniprogram-based solutions for the retail industry    |
 
 ## Why TDesign
